@@ -1,6 +1,6 @@
 Spring Boot Tutorial
 
-1. Make REST APIs
+mater branch : Make REST APIs
 
-2. Implement a Mapper to connect a mySql database.
+mysql branch : REST APIs with implementation of a Mapper to connect a mySql database.
   
