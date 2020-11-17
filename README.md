@@ -8,5 +8,5 @@ Spring Boot Tutorial
 
   build command at maven : spring-boot:build-image
   
-  run command : docker run -d -p 8080:8080 -e spring.profiles.active=production <image-name> 
+  run command : docker run -d -p 8080:8080 -e spring.profiles.active=production [image-name] 
   
